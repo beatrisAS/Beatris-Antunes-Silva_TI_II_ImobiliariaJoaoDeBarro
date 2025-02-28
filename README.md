@@ -10,6 +10,7 @@ O projeto inclui a modelagem conceitual e lógica do banco de dados, além das i
 A atividade consiste na criação da estrutura de um banco de dados para uma imobiliária, permitindo o controle dos condomínios e seus respectivos apartamentos, síndicos, proprietários e garagens. A modelagem segue as regras definidas no enunciado da atividade, aplicando corretamente os relacionamentos entre as entidades.
 
 📌 **Requisitos:**
+
 ✔ Criar a modelagem conceitual e lógica do banco de dados.  
 ✔ Implementar as instruções SQL para a criação das tabelas.  
 ✔ Garantir a integridade dos dados com chaves primárias e estrangeiras.  
@@ -18,9 +19,7 @@ A atividade consiste na criação da estrutura de um banco de dados para uma imo
 ---
 
 📂 **Estrutura do Repositório**
-- `imobiliariajoaodebarro.sql` → Arquivo contendo as instruções SQL para criação das tabelas.  
-- `modelo_conceitual.pdf` → Diagrama conceitual do banco de dados.  
-- `modelo_logico.pdf` → Diagrama lógico do banco de dados.  
+- `imobiliariajoaodebarro.sql` → Arquivo contendo as instruções SQL para criação das tabelas.   
 - `Demonstrativo_execucao.png` → Captura de tela do banco em funcionamento.  
 - `Demonstrativo_proprietario_apartamento.png` → Captura de tela da tabela Proprietário e seu relacionamento com Apartamento.  
 - `Demonstrativo_apartamento_garagem.png` → Captura de tela da tabela Apartamento e Garagem.  
